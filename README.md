@@ -1,4 +1,7 @@
 <h1 align="center">Jeo Carlo Lubao</h1>
+
+---
+
 <h3 align="center">BSIT Student - Interested in Android, Web, and Game Development</h3>
 
 
@@ -11,6 +14,7 @@
 
 👨‍💻 My projects are available at [https://github.com/jeocarlolubao](https://github.com/jeocarlolubao) </center>
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeo-lubao-a12328254) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jeooooo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jeo-carlo-lubao) 
@@ -66,15 +70,18 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
+--- 
 
 # 📊 GitHub Stats:
+
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=jeocarlolubao&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeocarlolubao&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeocarlolubao&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=jeocarlolubao&icon=2&color=1)](https://visitcount.itsvg.in)
 
