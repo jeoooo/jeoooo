@@ -12,7 +12,8 @@
 
  🤝 I’m looking for help with **GameState Integration for DOTA 2**
 
-👨‍💻 My projects are available at [https://github.com/jeocarlolubao](https://github.com/jeocarlolubao) </center>
+👨‍💻 My projects are available at [https://github.com/jeocarlolubao](https://github.com/jeocarlolubao) 
+</center>
 
 ---
 
@@ -84,4 +85,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jeocarlolubao&icon=2&color=1)](https://visitcount.itsvg.in)
-
