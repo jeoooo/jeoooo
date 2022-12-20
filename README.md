@@ -5,8 +5,8 @@
 <h3 align="center">BSIT Student - Interested in Android, Web, and Game Development</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeocarlolubao&label=Profile%20views&color=0000ff&style=plastic" alt="jeocarlolubao" /> </p>
-
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=jeocarlolubao&icon=2&color=1" alt="jeocarlolubao" /> </p>
+  
 
 <center>🌱 I’m currently interested in learning <b>Game Development, Web Development, Machine Learning</b>
 
@@ -84,4 +84,3 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jeocarlolubao&icon=2&color=1)](https://visitcount.itsvg.in)
