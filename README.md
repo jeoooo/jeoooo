@@ -44,8 +44,11 @@
 
 </p>
   
+<!-- ## Featured Repositories
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeocarlolubao&repo=VoiceNotes&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeocarlolubao&repo=Netrunners&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeocarlolubao&repo=PF101PROJECT&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
