@@ -1,6 +1,6 @@
 
 <p align="center">
-<img  src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="jeocarlolubao" />
+<img  src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" style="width: 350px; height: 200px;" alt="jeocarlolubao" />
 </p>
 
 
