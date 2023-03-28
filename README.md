@@ -12,10 +12,10 @@
 
 <!-- SOCIALS -->
 <p align="center">
-<a href="https://github.com/jeocarlolubao" target="_blank">
+<a href="https://github.com/jeoooo" target="_blank">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/jeo-lubao-a12328254" target="_blank">
+<a href="https://www.linkedin.com/in/jeo-carlo-lubao" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://reddit.com/user/jeooooo" target="_blank">
