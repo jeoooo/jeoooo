@@ -130,9 +130,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=jeoooo&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeoooo&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoooo&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jeoooo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jeoooo&theme=github_dark&hide_border=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoooo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_progress=true&langs_count=10&hide=blade,shell)
 
 
 
