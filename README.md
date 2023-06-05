@@ -25,8 +25,14 @@
 </a>
 <a href="https://stackoverflow.com/users/jeo-carlo-lubao" target="_blank">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+ 
+ <br>
+<br>
+<img src="https://www.codewars.com/users/jeoooo/badges/micro" alt="jeocarlolubao" />
 </p>
 </a>
+
+ 
 
 
 
@@ -38,6 +44,10 @@
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=jeocarlolubao&style=for-the-badge" alt="jeocarlolubao" /> 
+
+ 
+ 
+ 
 
 
 
