@@ -20,11 +20,11 @@
 <a href="https://www.linkedin.com/in/jeo-carlo-lubao" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://reddit.com/user/jeooooo" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
+<!-- <a href="https://reddit.com/user/jeooooo" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/> -->
 </a>
-<a href="https://stackoverflow.com/users/jeo-carlo-lubao" target="_blank">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<!-- <a href="https://stackoverflow.com/users/jeo-carlo-lubao" target="_blank">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> -->
  
  <br>
 <br>
@@ -39,7 +39,7 @@
 
 ---
 
-<h3 align="center">BSIT Student - Interested in Android, Web, and Game Development</h3>
+<h3 align="center">Software Developer | Graphic Designer </h3>
 
 
 <p align="center"> 
@@ -53,9 +53,10 @@
 
 <div style="text-align: justify">
 
-A 4th Year IT student with a keen interest in Android mobile development. I am also fascinated in web and backend development and UI/UX design. 
+A versatile software development specialist. Possesses expertise in Android mobile development, fullstack development, UI/UX design, Algorithmic Music, Machine Learning, and Game Development.
 
-Passionate in learning more in other areas of software engineering and technology such as Algorithmic Music, Machine Learning, Game Development, and IT Project Management.
+I strongly believe in empowering teams through effective collaboration and problem solving, while my unwavering passion for continuous learning drives me to stay at the forefront of the rapidly evolving field of software engineering.
+
 
 </div>
 
@@ -155,7 +156,7 @@ Passionate in learning more in other areas of software engineering and technolog
 
 ![](https://github-readme-stats.vercel.app/api?username=jeoooo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jeoooo&theme=github_dark&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoooo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_progress=true&langs_count=10&hide=blade,shell)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoooo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide_progress=true&langs_count=8&hide=blade,shell)
 
 
 
