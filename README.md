@@ -1,4 +1,3 @@
-
 <h1>hi! :D</h1>
 <h3 align="center">Software Developer | Graphic Designer </h3>
 
@@ -7,16 +6,14 @@
 🤝 I’m looking for help with **GameState Integration for DOTA 2.**
 
 👨‍💻 My projects are available at [Github](https://github.com/jeocarlolubao) and [Behance](https://www.behance.net/jeolubao)
-
 </p>
 
 ## 💻 Programming Languages:
 - Java
 - C#
-
 ## 💻 Web Development:
 - HTML, CSS
-- JavaScript/TypeScript (React, Vue, Svelte, NodeJS) 
+- JavaScript/TypeScript (React, Vue, Svelte, NodeJS)
 - PHP
 ## 📱 Mobile Development:
 - Android (Java/Kotlin)
@@ -25,7 +22,7 @@
 ## 💻 Databases:
 - SQL
 - Firebase
-## 💻 Graphics Design, and related tools:
+## 💻 Graphics + UI/UX Design:
 <table border="0">
  <tr>
     <td>
