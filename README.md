@@ -1,15 +1,6 @@
 
 <h1>hi! :D</h1>
 <h3 align="center">Software Developer | Graphic Designer </h3>
-<br>
-<div style="text-align: justify">
-A versatile software development specialist. Possesses expertise in Android development and Fullstack development.
-
-<br>
-I strongly believe in empowering teams through effective collaboration and problem solving, while my unwavering passion for continuous learning drives me to stay at the forefront of the rapidly evolving field of software engineering.
-</div>
-
-<br>
 
 🌱 I’m currently interested in learning <b>Game Development, Web Development, Machine Learning, and Algorithmic Music</b>
 
