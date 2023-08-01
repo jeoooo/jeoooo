@@ -11,16 +11,18 @@
 ## 💻 Programming Languages:
 - Java
 - C#
+- C++ (Arduino)
+- Python (RenPy)
 ## 💻 Web Development:
 - HTML, CSS
 - JavaScript/TypeScript (React, Vue, Svelte, NodeJS)
-- PHP
+- PHP (Laravel)
 ## 📱 Mobile Development:
 - Android (Java/Kotlin)
 - React Native
 - Flutter
 ## 💻 Databases:
-- SQL
+- SQL (SQL Server, MYSQL, SQLite)
 - Firebase
 ## 💻 Graphics + UI/UX Design:
 <table border="0">
