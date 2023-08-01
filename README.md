@@ -2,7 +2,7 @@
 <h1>hi! :D</h1>
 <h3 align="center">Software Developer | Graphic Designer </h3>
 
-🌱 I’m currently interested in learning <b>Game Development, Web Development, Machine Learning, and Algorithmic Music</b>
+🌱 I’m currently interested in learning <b>Game Development, Web Development, Machine Learning, and Algorithmic Music.</b>
 
 🤝 I’m looking for help with **GameState Integration for DOTA 2**
 
