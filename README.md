@@ -10,6 +10,6 @@
 
 🌱 I’m currently interested in learning **Game Development, Web Development, Machine Learning, and Algorithmic Music.**
 
-🤝 I’m looking for help with **GameState Integration for DOTA 2.**
+🤝 I’m looking for help with **GameState Integration for DOTA 2, PocketBase, and Flutter**
 
 👨‍💻 My projects are available at [Github](https://github.com/jeocarlolubao) and [Behance](https://www.behance.net/jeolubao)
