@@ -15,3 +15,5 @@
 👨‍💻 My projects are available at [Github](https://github.com/jeocarlolubao) and [Behance](https://www.behance.net/jeolubao)
 
 ⚙️ [My VSCode Settings](https://github.com/jeoooo/jeooo-vscode-settings)
+
+⚙️ [My Android Studio Settings](https://github.com/jeoooo/jeooo-android-studio-settings)
