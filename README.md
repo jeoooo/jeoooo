@@ -21,6 +21,11 @@
 🤝 Looking for help with **GameState Integration for Video Games, Mobile Development, Python, Django, and Fullstack Development**
 
 ---
+```
+} catch (error) {
+    throw error;
+}
+```
 
 /ｊｉｇｓ/ａｗ   ｆ/ａｌｌｉｎｇ /   ｉｎ/ｔｏ   ｐｌａ/ｃ/ｅ
 
