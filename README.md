@@ -10,8 +10,12 @@
 
 🌱 Interested in learning **Game Development, Web Development, Machine Learning, and Algorithmic Music.**
 
-🤝 Looking for help with **GameState Integration for DOTA 2, Mobile Development, Python, Django, and Fullstack Development**
+🤝 Looking for help with **GameState Integration for Video Games, Mobile Development, Python, Django, and Fullstack Development**
 
-⚙️ [My VSCode Settings](https://github.com/jeoooo/jeooo-vscode-settings)
+---
 
-⚙️ [My Android Studio Settings](https://github.com/jeoooo/jeooo-android-studio-settings)
+/ｊｉｇｓ/ａｗ   ｆ/ａｌｌｉｎｇ /   ｉｎ/ｔｏ   ｐｌａ/ｃ/ｅ
+
+<!--  ⚙️ [My VSCode Settings](https://github.com/jeoooo/jeooo-vscode-settings)                   -->
+
+<!--   ⚙️ [My Android Studio Settings](https://github.com/jeoooo/jeooo-android-studio-settings)  -->
