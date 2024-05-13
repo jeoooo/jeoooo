@@ -8,11 +8,9 @@
 - [Behance](https://www.behance.net/jeolubao)
 - [My Portfolio!!!](https://jeoooo.github.io/portfolio)
 
-🌱 I’m currently interested in learning **Game Development, Web Development, Machine Learning, and Algorithmic Music.**
+🌱 Interested in learning **Game Development, Web Development, Machine Learning, and Algorithmic Music.**
 
-🤝 I’m looking for help with **GameState Integration for DOTA 2, Android, PocketBase, Flutter, and Fullstack Development**
-
-👨‍💻 My projects are available at [Github](https://github.com/jeocarlolubao) and [Behance](https://www.behance.net/jeolubao)
+🤝 Looking for help with **GameState Integration for DOTA 2, Mobile Development, Python, Django, and Fullstack Development**
 
 ⚙️ [My VSCode Settings](https://github.com/jeoooo/jeooo-vscode-settings)
 
