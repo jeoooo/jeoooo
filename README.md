@@ -12,9 +12,9 @@
 
 ### Socials 
 - [Linkedin](https://www.linkedin.com/in/jeoooo/)
-- [Github](https://github.com/jeocarlolubao)
+<!-- - [Github](https://github.com/jeocarlolubao) -->
 - [Behance](https://www.behance.net/jeolubao)
-- [My Portfolio!!!](https://jeoooo.github.io/portfolio)
+<!-- - [My Portfolio!!!](https://jeoooo.github.io/portfolio) -->
 
 🌱 Interested in learning **Game Development, Web Development, Machine Learning, and Algorithmic Music.**
 
