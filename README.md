@@ -4,7 +4,7 @@
 
 <div align="center"> 
   
-<img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2017/07/1473031501_lain.gif" alt="Lain GIF" width="1000px" />
+<img src="https://media2.giphy.com/media/vP5gXvSXJ2olG/giphy.gif?cid=6c09b952d789072m9no604a8a3192r403m2ogrkc3ofo5dhr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Lain GIF" width="1000px" />
 
 
 </div>
