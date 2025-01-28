@@ -8,9 +8,32 @@
 <img src="https://animerants.net/wp-content/uploads/2020/09/serial-experiments-lain-2.gif?w=400" alt="Lain GIF" width="1000px" />
 
 
+<!-- Tech Stack Badges -->
+<p align="center">
+  <p align="center"> P̸̜͌r̷͔̎e̶̜͑s̷̜͒e̶̯͝ǹ̷̼ẗ̴͇́ ̵̹̈D̴͙̂ȧ̵͎ý̸̥.̷̞̒.̸̠̊ ̸̺͠P̵̬͐ṛ̷͌e̴̘̕s̸̪̾ë̸͚ń̵͔t̴͖͒ ̶̜͛T̶̻̆i̸̻͌m̸̩̕ē̵̢!̷̳͠ ̴̯̀H̶̡̄A̷̞͌Ḩ̴̚A̸͓͛H̴̬̿Á̷̫!̶̥̓ </p>
+  
+  /ｊｉｇｓ/ａｗ   ｆ/ａｌｌｉｎｇ /   ｉｎ/ｔｏ   ｐｌａ/ｃ/ｅ
+  
+  <a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></a>
+  <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+  <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"></a>
+</p>
+
+<!-- Additional Links -->
+<p align="center">
+  <a href="https://medium.com/@jeooocarlo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.behance.net/jeolubao" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://jeoooo.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"></a>
+</p>
+
 </div>
 
-<p align="center"> P̸̜͌r̷͔̎e̶̜͑s̷̜͒e̶̯͝ǹ̷̼ẗ̴͇́ ̵̹̈D̴͙̂ȧ̵͎ý̸̥.̷̞̒.̸̠̊ ̸̺͠P̵̬͐ṛ̷͌e̴̘̕s̸̪̾ë̸͚ń̵͔t̴͖͒ ̶̜͛T̶̻̆i̸̻͌m̸̩̕ē̵̢!̷̳͠ ̴̯̀H̶̡̄A̷̞͌Ḩ̴̚A̸͓͛H̴̬̿Á̷̫!̶̥̓ </p>
+
 
 <!-- ### Socials -->
 <!-- - [Linkedin](https://www.linkedin.com/in/jeoooo/) --?
@@ -23,13 +46,13 @@
 <!-- 🤝 Looking for help with **GameState Integration for Video Games, Mobile Development, Python, Django, and Fullstack Development** -->
 
 <!-- --- -->
-```js
+<!-- ```js
 } catch (error) {
     throw error;
 }
-```
+``` --->
 
-/ｊｉｇｓ/ａｗ   ｆ/ａｌｌｉｎｇ /   ｉｎ/ｔｏ   ｐｌａ/ｃ/ｅ
+
 
 <!--  ⚙️ [My VSCode Settings](https://github.com/jeoooo/jeooo-vscode-settings)                   -->
 
