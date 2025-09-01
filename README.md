@@ -40,7 +40,8 @@
   <a href="https://jeoooo.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<img src="https://www.codewars.com/users/jeoooo/badges/micro"/>
+<!--<img src="https://www.codewars.com/users/jeoooo/badges/micro"/> -->
+
 </div>
 
 
